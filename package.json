@@ -1,0 +1,19 @@
+{
+  "name": "graph.js",
+  "version": "1.0.0",
+  "description": "Graph DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@bitbucket.org/sqreept/graph.js.git"
+  },
+  "keywords": [
+    "graph",
+    "db"
+  ],
+  "author": "Adrian Punga <adrian.punga@gmail.com>",
+  "license": "MIT"
+}
